@@ -1,0 +1,16 @@
+C:\Users\sidma\source\repos\RegexAteMyNeighbors\RegexAteMyNeighbors\bin\Debug\net5.0\RegexAteMyNeighbors.exe
+C:\Users\sidma\source\repos\RegexAteMyNeighbors\RegexAteMyNeighbors\bin\Debug\net5.0\RegexAteMyNeighbors.deps.json
+C:\Users\sidma\source\repos\RegexAteMyNeighbors\RegexAteMyNeighbors\bin\Debug\net5.0\RegexAteMyNeighbors.runtimeconfig.json
+C:\Users\sidma\source\repos\RegexAteMyNeighbors\RegexAteMyNeighbors\bin\Debug\net5.0\RegexAteMyNeighbors.runtimeconfig.dev.json
+C:\Users\sidma\source\repos\RegexAteMyNeighbors\RegexAteMyNeighbors\bin\Debug\net5.0\RegexAteMyNeighbors.dll
+C:\Users\sidma\source\repos\RegexAteMyNeighbors\RegexAteMyNeighbors\bin\Debug\net5.0\ref\RegexAteMyNeighbors.dll
+C:\Users\sidma\source\repos\RegexAteMyNeighbors\RegexAteMyNeighbors\bin\Debug\net5.0\RegexAteMyNeighbors.pdb
+C:\Users\sidma\source\repos\RegexAteMyNeighbors\RegexAteMyNeighbors\obj\Debug\net5.0\RegexAteMyNeighbors.csproj.AssemblyReference.cache
+C:\Users\sidma\source\repos\RegexAteMyNeighbors\RegexAteMyNeighbors\obj\Debug\net5.0\RegexAteMyNeighbors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sidma\source\repos\RegexAteMyNeighbors\RegexAteMyNeighbors\obj\Debug\net5.0\RegexAteMyNeighbors.AssemblyInfoInputs.cache
+C:\Users\sidma\source\repos\RegexAteMyNeighbors\RegexAteMyNeighbors\obj\Debug\net5.0\RegexAteMyNeighbors.AssemblyInfo.cs
+C:\Users\sidma\source\repos\RegexAteMyNeighbors\RegexAteMyNeighbors\obj\Debug\net5.0\RegexAteMyNeighbors.csproj.CoreCompileInputs.cache
+C:\Users\sidma\source\repos\RegexAteMyNeighbors\RegexAteMyNeighbors\obj\Debug\net5.0\RegexAteMyNeighbors.dll
+C:\Users\sidma\source\repos\RegexAteMyNeighbors\RegexAteMyNeighbors\obj\Debug\net5.0\ref\RegexAteMyNeighbors.dll
+C:\Users\sidma\source\repos\RegexAteMyNeighbors\RegexAteMyNeighbors\obj\Debug\net5.0\RegexAteMyNeighbors.pdb
+C:\Users\sidma\source\repos\RegexAteMyNeighbors\RegexAteMyNeighbors\obj\Debug\net5.0\RegexAteMyNeighbors.genruntimeconfig.cache
